@@ -113,7 +113,7 @@
     <img src="https://skillicons.dev/icons?i=twitter&theme=dark" width="45" height="45" alt="twitter logo"/>
   </a>
   <a href="https://ShwaTech.github.io/" target="_blank">
-    <img src="https://private-user-images.githubusercontent.com/158109684/485368668-8c2dd661-6d21-45d9-a1fb-371456aed820.png" width="45" height="45" alt="portfolio logo"/>
+    <img src="https://github.com/ShwaTech/ShwaTech/issues/1#issue-3381537687" width="45" height="45" alt="portfolio logo"/>
   </a>
 </div>
 
