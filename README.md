@@ -72,8 +72,8 @@
   <img src="https://skillicons.dev/icons?i=jenkins&theme=dark" width="45" height="45" alt="jenkins logo"/>
   <img src="https://skillicons.dev/icons?i=terraform&theme=dark" width="45" height="45"  alt="terraform logo"/>
   <img src="https://skillicons.dev/icons?i=openshift&theme=dark" width="45" height="45" alt="openshift logo"/>
-  <img src="https://skillicons.dev/icons?i=nginx&theme=dark" width="45" height="45" alt="nginx logo"/>
   <img src="https://skillicons.dev/icons?i=ansible&theme=dark" width="45" height="45" alt="ansible logo"/>
+  <img src="https://skillicons.dev/icons?i=nginx&theme=dark" width="45" height="45" alt="nginx logo"/>
   <img src="https://skillicons.dev/icons?i=supabase&theme=dark" width="45" height="45" alt="supabase logo"/>
   <img src="https://skillicons.dev/icons?i=redis&theme=dark" width="45" height="45" alt="redis logo"/>
   <img src="https://skillicons.dev/icons?i=rabbitmq&theme=dark" width="45" height="45" alt="rabbitmq logo"/>
