@@ -11,7 +11,7 @@
 <br clear="both">
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&multiline=true&&color=D8008F&vCenter=true&width=440&height=70&lines=Artificial+Intelligence+Engineer;LLM+Specialist;Data+Scientist;MLOps/LLMOps+Engineer;Agentic+AI+Engineer" alt="Typing SVG">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&multiline=true&&color=D8008F&vCenter=true&width=465&height=70&lines=Artificial+Intelligence+Engineer;LLM+Specialist;Data+Scientist;MLOps/LLMOps+Engineer;Agentic+AI+Engineer" alt="Typing SVG">
 </div>
 
 <br clear="both">
@@ -109,11 +109,11 @@
   <a href="mailto:mohamedfatmak141@gmail.com" target="_blank">
     <img src="https://skillicons.dev/icons?i=gmail&theme=light" width="45" height="45" alt="gmail logo"/>
   </a>
-  <a href="https://x.com/theahmedhany" target="_blank">
+  <a href="https://x.com/MohamedFat10722?s=09" target="_blank">
     <img src="https://skillicons.dev/icons?i=twitter&theme=dark" width="45" height="45" alt="twitter logo"/>
   </a>
   <a href="https://ShwaTech.github.io/" target="_blank">
-    <img src="https://1drv.ms/i/c/1e866479f9214be5/EdmVgC5_K65ApI3LoBIfn_sBf5UEzNKcIVHwhm0TDX731g?e=N6shSa" width="45" height="45" alt="portfolio logo"/>
+    <img src="https://1drv.ms/i/c/1e866479f9214be5/EdmVgC5_K65ApI3LoBIfn_sBf5UEzNKcIVHwhm0TDX731g?e=Gm6OZK" width="45" height="45" alt="portfolio logo"/>
   </a>
 </div>
 
@@ -124,5 +124,5 @@
 </div>
 
 <div align="center">
-  <sub>👑Made with ❤️ and lots of ☕</sub>
+  <sub>Made with ❤️ and lots of ☕</sub>
 </div>
