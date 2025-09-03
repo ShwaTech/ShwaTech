@@ -113,7 +113,7 @@
     <img src="https://skillicons.dev/icons?i=twitter&theme=dark" width="45" height="45" alt="twitter logo"/>
   </a>
   <a href="https://ShwaTech.github.io/" target="_blank">
-    <img src="https://private-user-images.githubusercontent.com/158109684/485368668-8c2dd661-6d21-45d9-a1fb-371456aed820.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTY5NDAxMjYsIm5iZiI6MTc1NjkzOTgyNiwicGF0aCI6Ii8xNTgxMDk2ODQvNDg1MzY4NjY4LThjMmRkNjYxLTZkMjEtNDVkOS1hMWZiLTM3MTQ1NmFlZDgyMC5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwOTAzJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDkwM1QyMjUwMjZaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT01ZWFmY2I3MjMwNDcxOGVlZjBiN2RmNGRkZDJkOGQzNDAyNzA0YmMyMjQ2YTczY2M3OTljMTVhMmFjY2MxMWJlJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.3ZYt5KIhgmdTN-0diJuMsd1wS7eJX4mKLuvWSar1lgI" width="45" height="45" alt="portfolio logo"/>
+    <img src="https://github.com/user-attachments/assets/8c2dd661-6d21-45d9-a1fb-371456aed820" width="45" height="45" alt="portfolio logo"/>
   </a>
 </div>
 
