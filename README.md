@@ -1,7 +1,7 @@
 <br clear="both">
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=84AE92&center=true&vCenter=true&width=750&lines=Welcome+to+Mohamed+Fathy's+Coding+Universe" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=8413f7&center=true&vCenter=true&width=750&lines=Welcome+to+Mohamed+Fathy's+Coding+Universe" alt="Typing SVG" />
 </div>
 
 <div align="center">
