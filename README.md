@@ -29,7 +29,8 @@
 <div align="center">
 
   <img height="220em" src="https://stats.hyo.dev/api/github-stats-advanced?login=ShwaTech" alt="GitHub Streak"/>
-  <img height="220em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShwaTech&&hide=kotlin&&locale=en&hide_title=true&layout=compact&langs_count=8&theme=nord&hide_border=true&border_radius=6&bg_color=26272D" alt="GitHub Streak"/>
+  <!-- <img height="220em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShwaTech&&hide=kotlin&&locale=en&hide_title=true&layout=compact&langs_count=8&theme=nord&hide_border=true&border_radius=6&bg_color=26272D" alt="GitHub Streak"/> 
+  -->
 </div>
 
 <br>
@@ -98,11 +99,11 @@
 
 ---
 
-<h3 align="left">
+<h3 align="center">
     Let's Connect & Collaborate!
 </h3>
 
-<div align="left" style="display: flex; flex-wrap: wrap;">
+<div align="center" style="display: flex; flex-wrap: wrap;">
   <a href="https://www.linkedin.com/in/shwatech/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" width="45" height="45" alt="linkedin logo"/>
   </a>
