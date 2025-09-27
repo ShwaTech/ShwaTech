@@ -102,7 +102,7 @@
     Let's Connect & Collaborate!
 </h3>
 
-<div align="center" style="display: flex; flex-wrap: wrap; gap: 15px;">
+<div align="center" style="display: flex; flex-wrap: wrap; column-gap: 15px;">
   <a href="https://www.linkedin.com/in/shwatech/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" width="45" height="45" alt="linkedin logo"/>
   </a>
