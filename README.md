@@ -102,18 +102,7 @@
     Let's Connect & Collaborate!
 </h3>
 
-<style>
-  .social-links {
-    display: flex;
-    justify-content: center;
-    flex-wrap: wrap;
-  }
-  .social-links a:not(:last-child) {
-    margin-right: 15px; /* horizontal space only */
-  }
-</style>
-
-<div class="social-links">
+<div align="center" style="display: flex; flex-wrap: wrap;">
   <a href="https://www.linkedin.com/in/shwatech/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" width="45" height="45" alt="linkedin logo"/>
   </a>
