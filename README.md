@@ -86,8 +86,8 @@
   <img src="https://skillicons.dev/icons?i=aws&theme=dark" width="45" height="45" alt="aws logo"/>
   <img src="https://skillicons.dev/icons?i=azure&theme=dark" width="45" height="45" alt="azure logo"/>
   <img src="https://skillicons.dev/icons?i=gcp&theme=dark" width="45" height="45" alt="gcp logo"/>
+  <img src="https://skillicons.dev/icons?i=heroku&theme=dark" width="45" height="45" alt="md logo"/>
   <img src="https://skillicons.dev/icons?i=postman&theme=dark" width="45" height="45" alt="postman logo"/>
-  <img src="https://skillicons.dev/icons?i=md&theme=dark" width="45" height="45" alt="md logo"/>
   <img src="https://skillicons.dev/icons?i=html&theme=dark" width="45" height="45" alt="html logo"/>
   <img src="https://skillicons.dev/icons?i=css&theme=dark" width="45" height="45" alt="css logo"/>
   <img src="https://skillicons.dev/icons?i=js&theme=dark" width="45" height="45" alt="js logo"/>
@@ -124,5 +124,5 @@
 </div>
 
 <div align="center">
-  <sub>Made with ❤️ and lots of ☕</sub>
+  <sub>Made by ShwaTech 👑 with ❤️ and lots of ☕</sub>
 </div>
