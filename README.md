@@ -131,19 +131,9 @@
 
 ---
 
-<footer style="
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
-  width: 100%;
-  padding: 10px 30px;
-  font-family: sans-serif;
-  white-space: nowrap;
-">
-  <span>&copy; 2025 ShwaTech 👑</span>
-  <div style="display: flex; gap: 20px;">
-    <span>AI</span>
-    <span>QC</span>
-    <span>CP</span>
-  </div>
-</footer>
+<div align="center" style="display:flex; justify-content:space-between; align-items:center; width:100%;">
+  <span>&copy; 2025 <b>ShwaTech 👑</b></span>
+  <span>
+    <b>AI</b> &nbsp;|&nbsp; <b>QC</b> &nbsp;|&nbsp; <b>CP</b>
+  </span>
+</div>
