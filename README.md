@@ -21,7 +21,7 @@
   &nbsp;
   <img src="https://img.shields.io/github/stars/ShwaTech?style=social" alt="Stars badge"/>
   &nbsp;
-  <img src="https://img.shields.io/badge/Contributions-300%2B-brightgreen" alt="Contributions badge"/>
+  <img src="https://img.shields.io/badge/Contributions-500%2B-brightgreen" alt="Contributions badge"/>
 </div>
 
 <br clear="both">
@@ -124,5 +124,6 @@
 </div>
 
 <div align="center">
-  <sub>Made by ShwaTech 👑 with ❤️ and lots of ☕</sub>
+  <sub>Made with ❤️ and lots of ☕</sub>
+  <sub>👑 ShwaTech 👑</sub>
 </div>
