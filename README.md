@@ -127,6 +127,18 @@
   <sub>Made with ❤️ and lots of ☕</sub>
 </div>
 
-<footer align="center">
-  <p>&copy; 2025 👑ShwaTech👑</p>
+<br>
+
+<footer style="
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px 30px;
+">
+  <p style="margin: 0;">&copy; 2025 ShwaTech 👑</p>
+  <div style="display: flex; gap: 15px;">
+    <span>AI</span>
+    <span>QC</span>
+    <span>CP</span>
+  </div>
 </footer>
