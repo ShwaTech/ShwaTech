@@ -124,14 +124,5 @@
 </div>
 
 <div align="center">
-  <sub>Made with ❤️ and lots of ☕</sub>
+  <sub>Made by <b>ShwaTech 👑</b> with ❤️ and lots of ☕</sub>
 </div>
-
-<br>
-
----
-
-<p align="center">
-  &copy; 2025 <b>ShwaTech 👑</b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <b>AI</b> &nbsp;|&nbsp; <b>QC</b> &nbsp;|&nbsp; <b>CP</b>
-</p>
