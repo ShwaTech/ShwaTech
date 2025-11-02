@@ -126,7 +126,7 @@
 <div align="center">
   <sub>Made with ❤️ and lots of ☕</sub>
 
-  <br>
+  <br><br>
   
   <p>👑 ShwaTech 👑</p>
 </div>
