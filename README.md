@@ -129,13 +129,15 @@
 
 <br>
 
+---
+
 <footer style="
   display: flex;
   justify-content: space-between;
   align-items: center;
   padding: 10px 30px;
 ">
-  <p style="margin: 0;">&copy; 2025 ShwaTech 👑</p>
+  <span style="margin: 0;">&copy; 2025 ShwaTech 👑</span>
   <div style="display: flex; gap: 15px;">
     <span>AI</span>
     <span>QC</span>
