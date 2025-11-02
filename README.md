@@ -131,9 +131,7 @@
 
 ---
 
-<div align="center" style="display:flex;">
-  <span align="right">&copy; 2025 <b>ShwaTech 👑</b></span>
-  <span align="left">
-    <b>AI</b> &nbsp;|&nbsp; <b>QC</b> &nbsp;|&nbsp; <b>CP</b>
-  </span>
-</div>
+<p align="center">
+  &copy; 2025 <b>ShwaTech 👑</b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <b>AI</b> &nbsp;|&nbsp; <b>QC</b> &nbsp;|&nbsp; <b>CP</b>
+</p>
