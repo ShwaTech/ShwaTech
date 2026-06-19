@@ -458,7 +458,7 @@ infrastructure:
 
 ---
 
-## 🛠️ Tech Arsenal
+## 📌 Tech Arsenal
 <div align="left" style="display: flex; gap: .5rem; flex-wrap: wrap;">
   <img src="https://skillicons.dev/icons?i=c&theme=dark" width="45" height="45" alt="c logo"/>
   <img src="https://skillicons.dev/icons?i=cpp&theme=dark" width="45" height="45" alt="cpp logo"/>
